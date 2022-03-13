@@ -12,7 +12,7 @@
 - 怎样迁移Keil工程文件
 - 配置J-Link或STLINK下载器完成烧录
 
-作为ST公司的亲儿子，CubeIDE对STM32芯片的支持肯定要好于Keil，而且适配Linux、Mac，只是因为Keil的用户惯性很少人尝试这玩意，由于语言问题相关教程也比较少。
+作为ST公司的亲儿子，CubeIDE对STM32芯片的支持肯定要好于Keil，而且适配Linux、Mac(一看就是Java) (甚至支持Mac Silicon)，只是因为Keil的用户惯性很少人尝试这玩意，由于语言问题相关教程也比较少。
 
 CubeIDE下载地址
 <https://www.st.com/en/development-tools/stm32cubeide.html#overview>
