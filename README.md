@@ -18,3 +18,5 @@ CubeIDE下载地址
 <https://www.st.com/en/development-tools/stm32cubeide.html#overview>
 
 移步这个仓库的第一篇教程 [#1尚未完工](./documents/CubeIDE的界面.md)
+
+> 更新日志（滚动）：3/14 在本地写了一点，然后不知道咋的搞没了，G
