@@ -14,7 +14,7 @@
 void toy_delay(uint32_t delay_Cycles)
 {
 	uint32_t i = 0;
-	for (i=0;i<=delay_Cycles;i++)
+	for (i=0;i<delay_Cycles;i++)
 	{
 		// do nothing but wait;
 	}
